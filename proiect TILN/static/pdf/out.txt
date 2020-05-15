@@ -1,0 +1,1124 @@
+{'metadata': {'Author': ['Andreas Wihler', 'James A. Meurs', 'Tassilo D. Momm', 'Julia John', 'Gerhard Blickle'], 'Content-Type': 'application/pdf', 'Creation-Date': '2016-08-25T06:44:12Z', 'CrossMarkDomains[1]': 'elsevier.com', 'CrossMarkDomains[2]': 'sciencedirect.com', 'CrossmarkDomainExclusive': 'true', 'CrossmarkMajorVersionDate': '2010-04-23', 'ElsevierWebPDFSpecifications': '6.5', 'Keywords': 'Conscientiousness;  Extraversion;  Sales performance;  Social skill;  Emotional stability;  Nonlinearity;  Narrow personality', 'Last-Modified': '2016-08-25T07:10:04Z', 'Last-Save-Date': '2016-08-25T07:10:04Z', 'X-Parsed-By': ['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.pdf.PDFParser'], 'X-TIKA:content_handler': 'ToTextContentHandler', 'X-TIKA:embedded_depth': '0', 'X-TIKA:parse_time_millis': '2244', 'access_permission:assemble_document': 'true', 'access_permission:can_modify': 'true', 'access_permission:can_print': 'true', 'access_permission:can_print_degraded': 'true', 'access_permission:extract_content': 'true', 'access_permission:extract_for_accessibility': 'true', 'access_permission:fill_in_form': 'true', 'access_permission:modify_annotations': 'true', 'cp:subject': 'PAID, 104 (2016) 291-296. doi:10.1016/j.paid.2016.07.045', 'created': '2016-08-25T06:44:12Z', 'creator': ['Andreas Wihler', 'James A. Meurs', 'Tassilo D. Momm', 'Julia John', 'Gerhard Blickle'], 'date': '2016-08-25T07:10:04Z', 'dc:creator': ['Andreas Wihler', 'James A. Meurs', 'Tassilo D. Momm', 'Julia John', 'Gerhard Blickle'], 'dc:description': 'PAID, 104 (2016) 291-296. doi:10.1016/j.paid.2016.07.045', 'dc:format': 'application/pdf; version=1.7', 'dc:subject': 'Conscientiousness;  Extraversion;  Sales performance;  Social skill;  Emotional stability;  Nonlinearity;  Narrow personality', 'dc:title': 'Conscientiousness, extraversion, and field sales performance: Combining narrow personality, social skill, emotional stability, and nonlinearity', 'dcterms:created': '2016-08-25T06:44:12Z', 'dcterms:modified': '2016-08-25T07:10:04Z', 'description': 'PAID, 104 (2016) 291-296. doi:10.1016/j.paid.2016.07.045', 'doi': '10.1016/j.paid.2016.07.045', 'meta:author': ['Andreas Wihler', 'James A. Meurs', 'Tassilo D. Momm', 'Julia John', 'Gerhard Blickle'], 'meta:creation-date': '2016-08-25T06:44:12Z', 'meta:keyword': 'Conscientiousness;  Extraversion;  Sales performance;  Social skill;  Emotional stability;  Nonlinearity;  Narrow personality', 'meta:save-date': '2016-08-25T07:10:04Z', 'modified': '2016-08-25T07:10:04Z', 'pdf:PDFVersion': '1.7', 'pdf:charsPerPage': ['4629', '7260', '6632', '5055', '8328', '3558'], 'pdf:docinfo:created': '2016-08-25T06:44:12Z', 'pdf:docinfo:creator': 'Andreas Wihler', 'pdf:docinfo:creator_tool': 'Elsevier', 'pdf:docinfo:custom:CrossMarkDomains[1]': 'elsevier.com', 'pdf:docinfo:custom:CrossMarkDomains[2]': 'sciencedirect.com', 'pdf:docinfo:custom:CrossmarkDomainExclusive': 'true', 'pdf:docinfo:custom:CrossmarkMajorVersionDate': '2010-04-23', 'pdf:docinfo:custom:ElsevierWebPDFSpecifications': '6.5', 'pdf:docinfo:custom:doi': '10.1016/j.paid.2016.07.045', 'pdf:docinfo:custom:robots': 'noindex', 'pdf:docinfo:keywords': 'Conscientiousness;  Extraversion;  Sales performance;  Social skill;  Emotional stability;  Nonlinearity;  Narrow personality', 'pdf:docinfo:modified': '2016-08-25T07:10:04Z', 'pdf:docinfo:producer': 'Acrobat Distiller 10.0.0 (Windows)', 'pdf:docinfo:subject': 'PAID, 104 (2016) 291-296. doi:10.1016/j.paid.2016.07.045', 'pdf:docinfo:title': 'Conscientiousness, extraversion, and field sales performance: Combining narrow personality, social skill, emotional stability, and nonlinearity', 'pdf:encrypted': 'false', 'pdf:hasMarkedContent': 'true', 'pdf:hasXFA': 'false', 'pdf:hasXMP': 'true', 'pdf:unmappedUnicodeCharsPerPage': ['0', '0', '0', '0', '0', '0'], 'producer': 'Acrobat Distiller 10.0.0 (Windows)', 'resourceName': "b'wihler2017.pdf'", 'robots': 'noindex', 'subject': 'PAID, 104 (2016) 291-296. doi:10.1016/j.paid.2016.07.045', 'title': 'Conscientiousness, extraversion, and field sales performance: Combining narrow personality, social skill, emotional stability, and nonlinearity', 'xmp:CreatorTool': 'Elsevier', 'xmpMM:DocumentID': 'uuid:fcb2c68e-7b8f-458c-a61a-8c74f5410162', 'xmpTPg:NPages': '6'}, 'content': "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conscientiousness, extraversion, and field sales performance: Combining narrow personality, social skill, emotional stability, and nonlinearity
+
+
+Personality and Individual Differences 104 (2017) 291–296
+
+Contents lists available at ScienceDirect
+
+Personality and Individual Differences
+
+j ourna l homepage: www.e lsev ie r .com/ locate /pa id
+Conscientiousness, extraversion, and field sales performance: Combining
+narrow personality, social skill, emotional stability, and nonlinearity
+Andreas Wihler a, James A. Meurs b, Tassilo D. Momm a, Julia John a, Gerhard Blickle a,⁎
+a University of Bonn, Germany
+b University of Calgary, Canada
+⁎ Corresponding author at: Arbeits-, Organisations-
+Institut fuer Psychologie, Universitaet Bonn, Kaiser-Karl-R
+
+E-mail address: gerhard.blickle@uni-bonn.de (G. Blick
+
+http://dx.doi.org/10.1016/j.paid.2016.07.045
+0191-8869/© 2016 Elsevier Ltd. All rights reserved.
+a b s t r a c t
+a r t i c l e i n f o
+Article history:
+Received 19 February 2016
+Received in revised form 26 July 2016
+Accepted 31 July 2016
+Available online xxxx
+Although prior research indicated that extraversion and conscientiousness are uniformly beneficial to sales per-
+formance, recent evidence suggests that scholars should consider nonlinearity, narrow personality, social skill,
+and the research context in the personality-performance relation. Further, scholars have found conscientiousness
+to have inverted U-shaped relationships with performance. Taking these into account, the present study exam-
+ines the nonlinear relation that the combined conscientiousness facets of discipline and achievement motivation
+(i.e., disciplined achievementmotivation) havewith objective sales performance in a predictive studywith a nine
+month time interval. We argue that stable social potency, composed of the activity facet of extraversion, social
+skill, and emotional stability, will moderate this nonlinear relation in the context of insurance field sales, such
+that the greatest sales performancewill be from those high on both constructs. Our findings support our hypoth-
+eses, demonstrating that a relevant social-related trait (i.e., stable social potency) can offset the potential down-
+sides of high disciplined achievement motivation (e.g., perfectionism, and workaholism), helping such
+individuals to achieve high objective sales. Implications for theory and future research directions are discussed.
+
+© 2016 Elsevier Ltd. All rights reserved.
+Keywords:
+Conscientiousness
+Extraversion
+Sales performance
+Social skill
+Emotional stability
+Nonlinearity
+Narrow personality
+1. Introduction
+
+Sales jobs deserve special attention because of their importance to
+the success of organizations (Vinchur, Schippmann, Switzer, & Roth,
+1998). Field sales positions are especially demanding, as the customer
+needs to be identified and sought out (Blickle et al., 2012), and rejection
+is an especially common occurrence when selling service products (e.g.,
+insurance; McManus & Kelly, 1999). Consequently, high levels of per-
+suasive effort, perseverance, and composure under pressure are vital
+to success in sales positions (Vinchur et al., 1998).
+
+Although conscientiousness has been related to sales performance
+(Vinchur et al., 1998) and career success (Judge & Kammeyer-Mueller,
+2012), at high levels, it can be manifested in behaviors unhelpful to
+work performance (e.g., workaholism and rigidity, Hmel & Pincus,
+2002; Samuel, Riddell, Lynam, Miller, &Widiger, 2012). Given the com-
+mon refrainwithin personality research to hire and promote individuals
+high on conscientiousness and the importance of sales positions to orga-
+nizations, the sales-related pitfalls of high conscientiousness deserve
+particular attention. The present study seeks to offset these downsides
+by interactively combining conscientiousness-related traits with sales-
+relevant socially-related traits, arguing that those high on both will
+demonstrate the greatest performance.
+und Wirtschaftspsychologie,
+ing 9, 53111 Bonn, Germany.
+le).
+Further, personality scholars have argued that performance predic-
+tion can be enhanced by examining narrow personality (see Robie &
+Ryan, 1999), aligning personality with a study's context (Tett &
+Burnett, 2003), and considering nonlinear relations with performance
+(e.g., Penney, David, & Witt, 2011). The present study employs each of
+these approaches, examining the nonlinear interaction of disciplined
+achievementmotivation (i.e., combined conscientiousness facets of dis-
+cipline and achievementmotivation)with stable social potency (i.e., the
+combination of the activity facet of extraversion, social skill, and emo-
+tional stability) in prediction of nine-month-later sales performance in
+the insurance sales context.
+2. Conscientiousness and extraversion - narrower personality in the
+sales context
+
+Within sales jobs, conscientiousness and extraversion have been
+meta-analytically demonstrated to be the strongest predictors of perfor-
+mance (Hurtz & Donovan, 2000; Vinchur et al., 1998). However, re-
+searchers have begun to claim that the personality-performance
+relationmay be nonlinear (e.g., Penney et al., 2011), and both conscien-
+tiousness (e.g., Le et al., 2011) and extraversion (e.g., Grant, 2013) have
+demonstrated curvilinear, inverted U-shaped relationships with perfor-
+mance. In addition, these associations could be context dependent (Tett
+& Burnett, 2003) and narrow personality within the overall factor could
+have different relations with performance (Robie & Ryan, 1999).
+
+http://crossmark.crossref.org/dialog/?doi=10.1016/j.paid.2016.07.045&domain=pdf
+http://dx.doi.org/10.1016/j.paid.2016.07.045
+mailto:gerhard.blickle@uni-bonn.de
+Journal logo
+http://dx.doi.org/10.1016/j.paid.2016.07.045
+http://www.sciencedirect.com/science/journal/
+www.elsevier.com/locate/paid
+
+
+292 A. Wihler et al. / Personality and Individual Differences 104 (2017) 291–296
+Although the trend in empirical personality research is to examine
+facets in exclusion, theory has emphasized matching the bandwidth
+and relevance of predictor(s) with the criterion (e.g., Paunonen,
+Rothstein, & Jackson, 1999; Penney et al., 2011). Further, research
+(e.g., DeYoung, Quilty, & Peterson, 2007) has demonstrated that the
+Big Five has three bandwidth levels (i.e., factor, aspect, and facet). Con-
+sequently, although our outcome (i.e., sales performance) is not as
+broad as overall performance, neither is it as narrow as a very specific
+type of sales performance (e.g., with a particular product, sales context,
+or customer). Therefore, we endeavored to utilize predictors at a similar
+(i.e., aspect) bandwidth.
+
+Regarding conscientiousness, based on prior research (i.e., Hurtz &
+Donovan, 2000; Vinchur et al., 1998), we chose two facets (i.e., self-dis-
+cipline and achievement motivation) that are contained in the same,
+overarching aspect (i.e., industriousness; DeYoung et al., 2007) and
+that we believe are those most relevant to the field sales context, nam-
+ing their combination disciplined achievement motivation (DAM). Self-
+discipline describes the ability to start and complete tasks (Costa &
+McCrae, 1992), and, using the O*NET database (Occupational Informa-
+tion Network; Peterson et al., 2001), Sackett and Walmsley (2014)
+found that dependability, conceptually similar to self-discipline, was
+the highest ranked attribute in sales jobs. Similarly, achievement moti-
+vation refers to a desire to compete with and attain greater competency
+than others (Baranik, Stanley, Bynum, & Lance, 2010), and it has been
+linked to many measures of career accomplishment (e.g., decades-
+later occupational status; Judge & Kammeyer-Mueller, 2012), including
+objective sales performance (Vinchur et al., 1998; Warr, Bartram, &
+Martin, 2005).
+
+However, extreme conscientiousness can have negative effects, such
+as self-critical perfectionism (Dunkley, Blankstein, Zuroff, Lecce, & Hui,
+2006) and greater adverse stress reactions to negative feedback
+(Cianci, Klein, & Seijts, 2010). In field sales positions, negative feedback
+and rejection from customers is a common occurrence, particularly
+when selling service products like insurance (McManus & Kelly,
+1999). At high levels, achievement motivated individuals can be de-
+scribed as self-focused workaholics, and discipline can become a sin-
+gle-minded rigidity (Hmel & Pincus, 2002; Samuel et al., 2012). Also,
+research has shown that both self-discipline and impulsivity, conceptu-
+ally similar to low discipline, have nonlinear relations with outcomes,
+with moderate levels relating to higher well-being (Carter, Guan,
+Maples, Williamson, & Miller, 2016) and success (Day & Silverman,
+1989) than low or high levels. Thus, it seems that, in isolation, DAM
+will have an inverted U-shaped relation with sales performance,
+which is counter to the presumption that high achievement-oriented
+individuals will produce the highest sales performance (Vinchur et al.,
+1998).
+
+Consequently, the present study interacts DAMwith stable social po-
+tency (SSP, i.e., the combined traits of the activity facet of extraversion,
+social skill, and emotional stability) in a nonlinear prediction of objec-
+tive sales performance. Prior research in other contexts has shown
+that those simultaneously high on both conscientiousness- and extra-
+version-related traits have the highest work performance (e.g., Witt,
+2002; Witt & Ferris, 2003, Study 4). Moreover, personality scholars
+have argued that the joint influence of multiple traits should be exam-
+ined (Penney et al., 2011), and that the inflection point for a nonlinear
+relation with performance could be different between traits (Pierce &
+Aguinis, 2013). Thus, we contend that, when interacted with SSP, the
+detrimental effects of high DAM can be offset, creating a positive and
+strengthening relation with performance for those high on SSP as
+DAM increases.
+
+Activity describes a desire to remain busy and work rapidly due to
+feelings of urgency (Costa & McCrae, 1992). Since, in prediction of
+sales performance, extraversion has shown an inverted U-shaped rela-
+tion (Grant, 2013) and its credibility interval includes zero (Barrick,
+Mount, & Judge, 2001), we desired to utilize a specific facet of extraver-
+sion, choosing activity because, given the demanding nature of
+insurance field sales (Blickle et al., 2012; McManus & Kelly, 1999),
+higher activity should be beneficial to sales performance. Moreover,
+the inability of a study (i.e., Denis,Morin, & Guindon, 2010) tofind a sig-
+nificant relationship between activity and task or global performance in
+a sample including a range of jobs could indicate the importance of
+context (e.g., field sales). Also, in a large community sample, the la-
+tent factor representing activity had the greatest number of negative
+associations with psychopathology of any of the four extraversion
+facets (Watson, Stasik, Ellickson-Larew, & Stanton, 2015), showing
+activity to be the most adaptive extraversion trait. However, at
+high levels, activity could result in a zeal to rush and hurry through
+tasks, despite low quality work. Additionally, Hambrick and
+McCord (2010) found activity to be negatively related to avoidance
+coping, and, in a sales context, being unable to disengage from a
+stressful customer situation (e.g., customer reluctance or rejection)
+could be viewed as too aggressive and/or would be unproductive, re-
+ducing performance.
+
+Thus, we believe that achievement oriented salespersons who are
+highly active also require heightened social skill and emotional sta-
+bility to engage in more adaptive responses (e.g., acceptance or
+avoidance coping) to stressful customer interactions, thereby, im-
+proving sales performance. A variety of research has shown that per-
+sonality needs social skill to affect behavior evaluated by others (see
+Hogan & Blickle, 2013), including objective sales outcomes (Blickle,
+Wendel, & Ferris, 2010). Furthermore, the combination of activity
+and social skill is conceptually similar to the (social) potency con-
+struct found to be related to objective sales success (Vinchur et al.,
+1998; Warr et al., 2005).
+
+Emotional stability is helpful to performance in social jobs, as
+found across seven studies by Mount, Barrick, and Stewart (1998).
+The emotionally stable engage in ways of coping (i.e., adaptive, pro-
+active, and strategic) that are more socially conducive, and they are
+less sensitive to others' emotions (Doherty, 1997), which should be
+particularly helpful when managing challenging customer relations
+that threaten sales. Hurtz and Donovan's (2000) meta-analysis
+showed that emotional stability had nearly as strong a relation
+with sales performance as did extraversion. Additionally, emotional
+control is an important element to being social skilled (Riggio,
+1986), and the greatest customer service job performance has
+come from those high on both emotional stability and extraversion
+(Judge & Erez, 2007), indicating that, in social jobs, their combina-
+tion is more helpful to performance than either trait in isolation.
+Lastly, the highly conscientious tend to experience greater negative
+affect (Fayard, Roberts, Robins, & Watson, 2012), and, thus, the pos-
+itive relationship between conscientiousness and performance could
+improve its strength when augmented by emotionally stability (see
+Penney et al., 2011). This research evidence indicates that emotional
+stability could be helpful to extraversion and conscientiousness
+traits in sales contexts.
+
+In short, we argue that when stable social potency (SSP) is low, dis-
+ciplined achievement motivation (DAM) will maintain an inverted U-
+shaped relation with objective sales performance. Whereas, higher
+levels of SSP will create an increasingly positive relationship of DAM
+with performance, such that those high on both will have the highest
+performance.
+
+Hypothesis 1. SSPmoderates the quadratic relation between DAM and
+sales performance.
+
+Hypothesis 1a. When SSP is low, there is a curvilinear relation between
+DAM and sales performance, such that the relation is initially positive
+but becomes weaker as DAM increases. When DAM further increases,
+the relation becomes negative.
+
+Hypothesis 1b. When SSP is high, there is a positively growing relation
+between DAM and sales performance, such that the relation is initially
+positive and becomes more positive as DAM increases.
+
+
+
+293A. Wihler et al. / Personality and Individual Differences 104 (2017) 291–296
+3. Method
+
+3.1. Participants and procedure
+
+The study was conducted with the support of the Human Resources
+(HR) department of a large German insurance company. HR sent email
+messages to the insurance agents. The message included the study's in-
+vitation, link to an online test, personal login code, and consent to use
+nine-month-later sales performance. 389 agents were contacted, 165
+followed the link, and 114 finished the online test. One year later, HR
+provided sales performance data (29% participation rate). Of the 114
+participants, 15 were female. Participant mean age was 44.6 (SD =
+9.3) years, having a job tenure of 12.5 years (SD= 8.2 years).
+
+3.2. Measures
+
+3.2.1. Disciplined achievement motivation (DAM)
+To assess DAM, we built a composite from the conscientiousness
+
+facets of self-discipline and achievement striving, measured using the
+respective scales from the German version (Ostendorf & Angleitner,
+2004) of the Revised NEO-PI-R (Costa & McCrae, 1992). Each scale is
+comprised of eight items. Sample items are “I'm pretty good about pacing
+myself so as to get things done on time” (self-discipline) and “I work hard
+to accomplish my goals” (achievement striving). All Items are answered
+on a 5-point Likert scale ranging from 1 = strongly disagree to 5 =
+strongly agree. We averaged all items to get an overall DAM score. The
+composite reliability (Wang & Stanley, 1970) for DAM was .87.
+
+3.2.2. Stable social potency (SSP)
+We measured SSP by using a composite score built of three con-
+
+structs, namely, activity, social skill, and (low) negative affectivity.
+First,we assessed activity using the eight items of the activity facet of ex-
+traversion of the German version (Ostendorf & Angleitner, 2004) of the
+Revised NEO-PI-R (Costa & McCrae, 1992). A sample item is “My life is
+fast-paced.” Items are answered on a 5-point Likert scale ranging from
+1 = strongly disagree to 5 = strongly agree. We assessed social skill
+with the social skill facet (Kholin et al., 2016; Novack & Kammer,
+1987) of self-monitoring (Snyder, 1974). This scale consists of nine
+true (=1) or false (=0) items. A sample items is “I canmake impromptu
+speeches even on topics about which I have almost no information” (true).
+Finally, we assessed emotional stability by reversing the negative affec-
+tivity scale (Watson, Clark, & Tellegen, 1988), since these two constructs
+are often used interchangeably (see Fortunato, 2004). Negative affectiv-
+ity is characterized by experiencing negative emotions (Watson& Clark,
+1984). The instructions read “…towhat extent do you feel thisway gen-
+erally.” A sample item includes “distressed.” Items are answered on a 5-
+point Likert scale ranging from 1 = not at all to 5 = extremely. All 10
+items were reverse-coded to assess emotional stability. We then aggre-
+gated all items using their respective scales and computed the averaged
+overall SSP score. The composite reliability (Wang & Stanley, 1970),
+which takes into account different scale types, for SSP was .75.
+
+3.2.3. Validation study
+To assess the construct validity (Camara, 2003) of DAM and SSP
+
+scales while avoiding range restriction (Pearlman, Schmidt, & Hunter,
+1980), we conducted a study of 703 employees from a range of jobs,
+using the German version of the PPI-R (Psychopathic Personality Inven-
+tory-Revised; Alpers & Eisenbarth, 2008; Lilienfeld & Widows, 2005).
+We chose the PPI-R inventory for the validation study because we ex-
+pected both discriminant and convergent validity with DAM and SSP
+(Miller & Lynam, 2012).
+
+Specifically, we expected discriminant validity (i.e., no substantial
+correlations) of DAM and SSP with PPI-R subscales cold-heartedness
+(CH, α = .82) and Machiavellian egocentricity (ME, α = .75). The
+data supported this expectation (r (DAM, CH) = −.05, r (DAM,
+ME) = −.02, r (SSP, CH) = −.04, r (SSP, ME) = −.04; all p N .05).
+We expected negative convergent validity (i.e., substantial negative
+correlations) of DAM with PPI-R subscales carefree nonplanfulness (CN,
+α = .73), and rebellious nonconformity (RN, α = .89). Additionally, we
+expected, that the negative correlations of these scales with DAM
+should be higher than the negative correlations with SSP. The data sup-
+ported this expectation: r (DAM, CN) =−.58, r (DAM, RN)=−.12, all
+p b .01); (r (SSP, CN)=−.25, p b .01, r (SSP, RN)= .02, ns);Δz (r (DAM,
+CN) vs. r (SSP, CN) = 9.83, p b .01; Δz (r (DAM, RN) vs. r (SSP, RN) =
+3.54, p b .01; for comparison of two correlation coefficients from the
+same sample, see Eid, Gollwitzer, and Schmitt (2011).
+
+We expected positive convergent validity (i.e., substantial positive
+correlations) of SSP with PPI-R subscales social influence (SOI, α = .85)
+and stress immunity (SI, α = .84). Additionally, we expected, that the
+positive correlations of these scales with SSP should be higher than
+the positive correlations with DAM. The data supported this expecta-
+tion: (r (SSP, SOI) = .45, r (SSP, SI) = .34, all p b .01); (r (DAM,
+SOI) = .25, r (DAM, SI) = .22, all p b .01); Δz (r (SSP, SOI) vs. r (DAM,
+SOI) = 5.67, p b .01; Δz (r (SSP, SI) vs. r (DAM, SI) = 3.16, all p b .01).
+
+The DAM (α = .80) and the SSP (α = .75) scales correlated at r =
+.47, p b .01, which reflects that both share the theme of ambition
+(Hough, 1992). In sum, although DAM and SSP are correlated, the pat-
+tern of discriminant and convergent validity coefficients in this valida-
+tion study demonstrate that both scales tap into different personality
+domains.
+
+3.2.4. Objective sales performance
+To objectively assess sales revenue, we used the company's nine-
+
+month-later sales performance data. In general, insurance products
+with a single acquisition commission (e.g., life insurance) can be differ-
+entiated from thosewith a recurring renewal commission (e.g., auto in-
+surance). To make products (e.g. life & savings, health, property &
+casualty) with different commission structures comparable between
+product lines, the organization assigns points to each product sold and
+aggregates them for an overall sales index/person, reflecting the com-
+mission paid to the agent. The organization-developed point system
+achieves comparability between both single acquisition and renewal
+commission structures, allowing sales representatives to be compared
+directly. The average sales revenue after nine months in our sample
+was 118,444.88 points (SD=86,915.45). Also, since we had a response
+rate of 29%, we compared participants and non-participants regarding
+their sales performance. Our results showed that there were no differ-
+ences in performance between the two groups.
+
+3.2.5. Control variables
+Since research has shown that age (Vinchur et al., 1998), gender
+
+(Bowen, Swim, & Jacobs, 2000), and organizational tenure (Ng &
+Feldman, 2010) can be related to performance, we included these as
+control variables. To control for its possible quadratic effects as found
+by Grant (2013), we assessed positive affectivity (Watson et al., 1988),
+as it is closely related to the other facets of extraversion, such as
+warmth, gregariousness, and positive emotions (Nemanick & Munz,
+1997). Cronbach's Alpha for positive affectivity was α = .81.
+
+3.3. Statistical analyses
+
+3.3.1. Measurement models
+To evaluate the independence and distinctiveness of our measures,
+
+we conducted confirmatory factor analyses. Recent research has
+shown that fit-indices of structural equation models generally deterio-
+rate with an increasing number of manifest variables (Moshagen,
+2012). Consequently, we built two indicator variables for each construct
+(i.e., DAM, SSP, and positive affectivity) to reduce the number of mani-
+fest variables.
+
+Mplus 7.0 (Muthén & Muthén, 1998-2012) was used to compare
+two different models. In the first model, the indicators loaded on their
+respective factors. The fit indices of this model were satisfactory:
+
+
+
+Table 2
+Hierarchical regression analyses.
+
+Objective sales performance
+
+Model 1 Model 2 Model 3 Model 4 Model 5
+
+β β β β β
+
+Disciplined achievement
+motivation (DAM)
+
+.18+ .18 .17 .06 .19
+
+Stable social potency (SSP) .03 .04 .04 –.09 –.03
+SSP × SSP .03 –.02 .10 .13
+DAM × DAM .00 –.03 –.07 –.10
+DAM × SSP .08 .25 .22
+DAM × DAM × SSP .42⁎ .40⁎
+
+Gender .14
+Age –.33⁎⁎
+
+Organizational tenure .38⁎⁎
+
+Positive affectivity (PA) –.20
+PA × PA .06
+R2 .04 .04 .04 .08 .21⁎⁎
+
+F(R²) (df1, df2) 2.22 (2,
+111)
+
+1.11 (4,
+109)
+
+.92 (5,
+108)
+
+1.54 (6,
+107)
+
+2.52 (11,
+102)
+
+ΔR² .00 .00 .04⁎ .13⁎⁎
+
+FΔR² (df1, df2) 0.04 (2,
+109)
+
+.20 (1,
+108)
+
+4.49 (1,
+107)
+
+3.47 (5,
+102)
+
+Note. N= 114 salespersons; gender (0= female 1 =male); standardized regression-co-
+efficients are reported.
+
++ p b .10.
+⁎ p b .05.
+⁎⁎ p b .01.
+
+294 A. Wihler et al. / Personality and Individual Differences 104 (2017) 291–296
+χ2= 9.95, df=6, p= .12, RMSEA= .076, CFI= .988, and SRMR= .033.
+In the secondmodel, all indicators loaded together on one factor. The fit
+indices of this model were unsatisfactory: χ2 = 105.99, df=9, p b .000,
+RMSEA = .307, CFI = .709, and SRMR = .099. Additionally, the first
+model demonstrated a significantly better fit than the second model:
+ΔChi² = 96.04, Δdf=3, p b .0001. These results support the distinctive-
+ness of the measures used.
+
+3.3.2. Hypothesis testing
+To ensure that our dependent variable was normally distributed, we
+
+investigated skewness (1.61) and kurtosis (2.84) and compared it to
+common cut-off values (skewness: +/−2; kurtosis: +/−7, Curran,
+West, & Finch, 1996), concluding that, although some distortion is pres-
+ent, our measure is normally distributed. Based on Cohen, Cohen,West,
+and Aiken (2003) and Jaccard and Turrisi (2003), hierarchical moderat-
+ed regression analyses were conducted to examine DAM's prediction of
+sales performance and the moderating role of SSP on the DAM – sales
+performance relation. All predictors were standardized prior to both
+building the interaction and quadratic terms and analysis. First, the lin-
+ear effects were entered. Second, we included the quadratic terms of
+DAM and SSP in our model (Cortina, 1993; Dawson, 2014). In the
+third model, the linear and the quadratic interaction effects between
+DAM and SSP were entered. In line with recent views that control vari-
+ables may hamper analyses and bias results (Becker, 2005), we added
+our control variables in the fourth model.
+
+4. Results
+
+Table 1 reports themeans, standard deviations, correlations, and Co-
+efficient alpha (α) estimates of all variables. The correlation between
+DAM and sales performance was significant (r = .19, p b .05), and be-
+tween SSP and performance it was non-significant (r = .12, ns.), with
+the estimates being in line with prior findings (r= .23 and .15, respec-
+tively; Vinchur et al., 1998).
+
+In line with the validation study, DAM and SSP correlated at r= .47
+(p b .01). In hypothesis testing, we standardized both scales (Cohen et
+al., 2003) and controlled for the quadratic effects of both scales
+(Cortina, 1993). The results for our hypothesis are shown in Table 2.
+The squared DAM x SSP interaction term was significant in the fourth
+model (β = .42, p b .05, ΔR² = 4%). This effect remained significant
+when the control variables were entered (Model 5: β = .40, p b .05).
+
+The plot (following Dawson, 2014) of the quadratic interaction of
+DAM is shown in Fig. 1. As can be seen, the slope of DAM for high SSP
+exponentially increases when DAM is increasing and leads to better ob-
+jective sales performance. The standardized inflection point (Le et al.,
+2011) for this slope was−.69, indicating that the slope turns direction
+at−.69 standard deviations from the mean.
+
+For individuals low on SSP, the relation with objective sales perfor-
+mance initially becomes stronger with increasing DAM, but, near the
+mean, the slope starts to decrease, indicating that higher values of
+DAM are related to worse sales performance. The standardized inflec-
+tion point for the slope at low levels of SSP was .13.
+Table 1
+Means, standard deviations, correlations, and reliabilities of study variables.
+
+M SD
+
+1 Gender 0.87 .34
+2 Age 44.57 9.34
+3 Org. tenure 12.51 8.20
+4 Positive affectivity 3.84 .45
+5 Disciplined achievement
+
+motivation
+3.70 .51
+
+6 Stable social potency 2.86 .30
+7 Objective sales performance 118,444.88 86,915.45
+
+Note. N = 114 sales people; gender (0 = female, 1 = male).
+⁎ p b .05.
+⁎⁎ p b .01.
+5. Discussion
+
+The results confirm our hypotheses and extend literature on the per-
+sonality–sales performance relation in a predictive study over 9months.
+The inverted U-shaped relation between disciplined achievementmoti-
+vation (DAM) and sales performance was moderated by stable social
+potency (SSP), explaining an additional 4% of the variance beyond
+main and moderating effects, and these effects remained when includ-
+ing control variables. High conscientiousness can be expressed in be-
+haviors that are especially detrimental to sales performance (see
+Carter et al., 2016), but we demonstrated that when individuals are
+high not only onDAM, but also SSP, their sales performance does not de-
+teriorate, but increases, when compared to those lower on DAM. Given
+the strong suggestion by the research community that practitioners hire
+and promote individuals high on conscientiousness and the ubiquity of
+sales positions in the modern economy, perhaps the primary contribu-
+tion of our study is to show that the sales performance limitations of
+the highly conscientious (i.e., high DAM) can be overcome when these
+individuals also possess an above average degree of socially-related
+traits.
+
+Regarding other contributions, our findings support research indi-
+cating the importance of narrow traits (Hogan & Holland, 2003; Robie
+& Ryan, 1999), social skill (Hogan & Blickle, 2013), relevant context
+(Tett & Burnett, 2003), and non-linearity (Penney et al., 2011) to the
+personality-performance relation. Additionally, our study extends this
+1 2 3 4 5 6
+
+.19⁎
+
+.24⁎ .71⁎⁎
+
+.02 .13 .09 (.81)
+− .03 .14 .06 .57⁎⁎ (.87)
+
+.00 .06 .01 .44⁎⁎ .47⁎⁎ (.75)
+
+.17 .00 .20⁎ .00 .19⁎ .12
+
+
+
+Fig. 1. Curvilinear effect of Disciplined Achievement Motivation (DAM) moderated by
+Stable Social Potency (SSP) on objective sales performance (with control variables).
+
+295A. Wihler et al. / Personality and Individual Differences 104 (2017) 291–296
+research by revealing the importance of emotional stability to these re-
+lations in the sales context. Although prior research has shown that the
+emotionally unstable are more stressed during social interactions
+(Kiffin-Petersen, Jordan, & Soutar, 2011), our research extends this liter-
+ature to demonstrate the benefits, within the sales context, of having
+higher emotional stability, delivering greater specificity to our knowl-
+edge of its function in social work environments.
+
+Our study's strengths include the use of a predictive design over 9
+months, objective sales data, narrowing our context to a specific sales
+position within a particular organization, controlling for positive affec-
+tivity to rule out the possible influence of positive emotions on these re-
+lations, and a validation study to show the discriminant and convergent
+validity of our predictors. Our research also has some limitations: Given
+the unique nature of the intangible product (e.g., insurance) sales con-
+text in our study, we cannot be certain how well our findings apply to
+tangible sales (e.g., retail) or non-sales settings. However, it seems plau-
+sible that socially-relevant traits would be beneficial to the high consci-
+entiousness in other enterprising occupations (Holland, 1997). Finally,
+it is possible that the sales performance index created by the organiza-
+tion to assess sales performance inequitably rewards certain products
+over others. We believe this is quite unlikely, as the index was created
+and is maintained with the purpose of equating different products.
+But, future studies could replicate ours in a context including only prod-
+ucts of one commission type. Future research also could test if these re-
+lations hold in other sales or non-sales environments, examine other-
+rated personality and social skill, and use other performance-related
+(e.g., customer service, adaptive, and contextual) outcomes.
+References
+
+Alpers, G.W., & Eisenbarth, H. (2008). PPI-R. Psychopathic personality inventory-revised.
+Deutsche version. Goettingen: Hogrefe.
+
+Baranik, L. E., Stanley, L. J., Bynum, B. H., & Lance, C. E. (2010). Examining the construct va-
+lidity of mastery-avoidance achievement goals: A meta-analysis. Human Performance,
+23, 265–282.
+
+Barrick, M. R., Mount, M. K., & Judge, T. A. (2001). The FFM personality dimensions and job
+performance: Meta-analysis of meta-analyses. International Journal of Selection and
+Assessment, 9, 9–30.
+
+Becker, T. E. (2005). Potential problems in the statistical control of variables in organiza-
+tional research: A qualitative analysis with recommendations. Organizational
+Research Methods, 8, 274–289.
+
+Blickle, G., Wendel, S., & Ferris, G. R. (2010). Political skill as moderator of personality–job
+performance relationships in socioanalytic theory: Test of the getting aheadmotive in
+automobile sales. Journal of Vocational Behavior, 76, 326–335.
+
+Blickle, G., John, J., Ferris, G. R., Momm, T., Liu, Y., Haag, R., ... Oerder, K. (2012). Fit of
+political skill to the work context: A two-study investigation. Applied Psychology:
+An International Review, 61, 295–322.
+
+Bowen, C. C., Swim, J. K., & Jacobs, R. R. (2000). Evaluating gender biases on actual job per-
+formance of real people: A meta-analysis. Journal of Applied Social Psychology, 30,
+2194–2215.
+
+Camara, W. J. (2003). Validity: construct. In R. (Ed.), Encyclopedia of psychological assessment.
+2. (pp. 1075–1078). London, UK: Sage.
+Carter, N. T., Guan, L., Maples, J. L., Williamson, R. L., & Miller, J. D. (2016). The downsides
+of extreme conscientiousness for psychological well-being: The role of obsessive
+compulsive tendencies. Journal of Personality, 84, 510–522.
+
+Cianci, A. M., Klein, H. J., & Seijts, G. H. (2010). The effect of negative feedback on tension
+and subsequent performance: The main and interactive effects of goal content and
+conscientiousness. Journal of Applied Psychology, 95, 618–630.
+
+Cohen, J., Cohen, P., West, S., & Aiken, L. (2003). Applied multiple regression/correlation
+analysis for the behavioral sciences. Mahwah, NJ: Lawrence Erlbaum.
+
+Cortina, J. M. (1993). Interaction, nonlinearity, and multicollinearity: Implications for
+multiple regression. Journal of Management, 19, 915–922.
+
+Costa, P. T., & McCrae, R. R. (1992). Revised NEO personality inventory (NEO-PI-R) and NEO
+Five-Factor inventory (NEO-FFI) professional manual. Odessa, FL: Psychological Assess-
+ment Resources, Inc.
+
+Curran, P., West, S. G., & Finch, J. (1996). The robustness of test statistics to nonnormality
+and specification error in confirmatory factor analysis. Psychological Methods, 1,
+16–29.
+
+Dawson, J. F. (2014). Moderation in management research: What, why, when, and how.
+Journal of Business and Psychology, 29, 1–19.
+
+Day, D. V., & Silverman, S. B. (1989). Personality and job performance: Evidence of incre-
+mental validity. Personnel Psychology, 42, 25–36.
+
+Denis, P. L., Morin, D., & Guindon, C. (2010). Exploring the capacity of NEO PI-R facets to
+predict job performance in two French-Canadian samples. International Journal of
+Selection and Assessment, 18, 201–207.
+
+DeYoung, C. G., Quilty, L. C., & Peterson, J. B. (2007). Between facets and domains: Ten as-
+pects of the Big Five. Journal of Personality and Social Psychology, 93, 880–896.
+
+Doherty, R. W. (1997). The emotional contagion scale: A measure of individual differ-
+ences. Journal of Nonverbal Behavior, 21, 131–154.
+
+Dunkley, D. M., Blankstein, K. R., Zuroff, D. C., Lecce, S., & Hui, D. (2006). Self-critical and
+personal standards factors of perfectionism located within the five-factor model of
+personality. Personality and Individual Differences, 40, 409–420.
+
+Eid, M., Gollwitzer, M., & Schmitt, M. (2011). Statistics and research methods [Statistik und
+Forschungsmethoden]. Weinheim, Germany: Beltz.
+
+Fayard, J., Roberts, B.W., Robins, R. W., &Watson, D. (2012). Uncovering the affective core
+of conscientiousness: The role of self-conscious emotions. Journal of Personality, 80,
+1–32.
+
+Fortunato, V. J. (2004). A comparison of the construct validity of three measures of
+negative affectivity. Educational and Psychological Measurement, 64, 271–289.
+
+Grant, A. M. (2013). Rethinking the extraverted sales ideal: The ambivert advantage.
+Psychological Science, 24, 1024–1030.
+
+Hambrick, E. P., & McCord, D. M. (2010). Proactive coping and its relation to the five-
+factor model of personality. Individual Differences Research, 8, 67–77.
+
+Hmel, B. A., & Pincus, A. L. (2002). The meaning of autonomy: On and beyond the inter-
+personal circumplex. Journal of Personality, 70, 277–310.
+
+Hogan, R., & Blickle, G. (2013). Socioanalytic theory. In N. D., & R. P. (Eds.), Handbook of
+personality at work (pp. 53–70). New York: Routledge.
+
+Hogan, J., & Holland, B. (2003). Using theory to evaluate personality and job-performance
+relations: A socioanalytic perspective. Journal of Applied Psychology, 88, 100–112.
+
+Holland, J. L. (1997). Making vocational choices: A theory of vocational personalities and
+work environments (3rd ed.). Odessa, FL: Psychological Assessment Resources.
+
+Hough, L. (1992). The “Big Five” personality variables–construct confusion: Description
+versus prediction. Human Performance, 5, 139–155.
+
+Hurtz, G., & Donovan, J. (2000). Personality and job performance. Journal of Applied
+Psychology, 85, 869–879.
+
+Jaccard, J., & Turrisi, R. (2003). Interaction effects in multiple regression. Newbury Park:
+Sage.
+
+Judge, T. A., & Erez, A. (2007). Interaction and intersection: The constellation of emotional
+stability and extraversion in predicting performance. Personnel Psychology, 60,
+573–596.
+
+Judge, T. A., & Kammeyer-Mueller, J. D. (2012). On the value of aiming high: The causes
+and consequences of ambition. Journal of Applied Psychology, 97, 758–775.
+
+Kholin, M., Meurs, J., Blickle, G., Wihler, A., Ewen, C., & Momm, T. (2016). Refining the
+openness–performance relationship: Construct specificity, contextualization, social
+skill, and the combination of trait self- and other-ratings. Journal of Personality
+Assessment, 98, 277–288.
+
+Kiffin-Petersen, S. A., Jordan, C. L., & Soutar, G. N. (2011). The big five, emotional exhaus-
+tion and citizenship behaviors in service settings: The mediating role of emotional
+labor. Personality and Individual Differences, 50, 43–48.
+
+Le, H., Oh, I. -S., Robbins, S. B., Ilies, R., Holland, E., & Westrick, P. (2011). Too much of a
+good thing: Curvilinear relationships between personality traits and job performance.
+Journal of Applied Psychology, 96, 113–133.
+
+Lilienfeld, S. O., & Widows, M. R. (2005). Psychological assessment inventory-revised
+(PPI-R). Lutz, FL: Psychological Assessment Resources.
+
+McManus, M. A., & Kelly, M. L. (1999). Personality measures and biodata: Evidence re-
+garding their incremental predictive value in the life insurance industry. Personnel
+Psychology, 52, 137–148.
+
+Miller, J. D., & Lynam, D. R. (2012). An examination of the Psychopathic Personality
+Inventory's nomological network: A meta-analytic review. Personality Disorders:
+Theory, Research, and Treatment, 3, 305–326.
+
+Moshagen, M. (2012). The model size effect in SEM: Inflated goodness-of-fit statis-
+tics are due to the size of the covariance matrix. Structural Equation Modeling,
+19, 86–98.
+
+Mount, M. K., Barrick, M. R., & Stewart, G. L. (1998). Five-factor model of personality and
+performance in jobs involving interpersonal interactions. Human Performance, 11,
+145–165.
+
+Muthén, L., & Muthén, B. (1998-2012). Mplus user's guide (7th ed.). Los Angeles, Ca:
+Muthén & Muthén.
+
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0005
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0005
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0005
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0010
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0010
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0010
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0015
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0015
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0015
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0020
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0020
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0020
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0025
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0025
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0025
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0030
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0030
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0030
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0035
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0035
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0040
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0040
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0040
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0045
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0045
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0045
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0050
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0050
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0055
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0055
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0060
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0060
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0060
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0065
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0065
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0065
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0070
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0070
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0075
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0075
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0080
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0080
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0080
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0085
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0085
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0090
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0090
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0095
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0095
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0095
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0100
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0100
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0105
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0105
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0105
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0110
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0110
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0115
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0115
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0120
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0120
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0125
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0125
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0130
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0130
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0135
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0135
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0140
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0140
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0145
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0145
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0150
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0150
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0155
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0155
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0160
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0160
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0160
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0165
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0165
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0170
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0170
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0170
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0170
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0175
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0175
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0175
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0180
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0180
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0180
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0185
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0185
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0190
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0190
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0190
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0195
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0195
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0195
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0200
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0200
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0200
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0205
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0205
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0205
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0210
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0210
+
+
+296 A. Wihler et al. / Personality and Individual Differences 104 (2017) 291–296
+Nemanick, R. C., Jr., & Munz, D. C. (1997). Extraversion and neuroticism, trait mood, and
+state affect: A hierarchical relationship? Journal of Social Behavior & Personality, 12,
+1079–1092.
+
+Ng, T. W. H., & Feldman, D. C. (2010). Organizational tenure and job performance. Journal
+of Management, 36, 1220–1250.
+
+Novack, W., & Kammer, D. (1987). Self-presentation: Social skills and inconsistency as in-
+dependent facets of self-monitoring. European Journal of Personality, 1, 61–77.
+
+Ostendorf, F., & Angleitner, A. (2004). NEO-Persoenlichkeitsinventar nach Costa und
+McCrae, Revidierte Fassung [NEO Personality Inventory after Costa and McCrae, Revised].
+Goettingen, Germany: Hogrefe.
+
+Paunonen, S. V., Rothstein, M. G., & Jackson, D. N. (1999). Narrow reasoning about the use
+of broad personality measures for personnel selection. Journal of Organizational
+Behavior, 20, 389–405.
+
+Pearlman, K., Schmidt, F. L., & Hunter, J. E. (1980). Validity generalization results for tests
+used to predict job proficiency and training success in clerical occupations. Journal of
+Applied Psychology, 65, 373–406.
+
+Penney, L. M., David, E., & Witt, L. A. (2011). A review of personality and performance:
+Identifying boundaries, contingencies, and future research directions. Human
+Resource Management Review, 21, 297–310.
+
+Peterson, N. G., Mumford, M. D., Borman, W. C., Jeanneret, P. R., Fleishman, E. A., Levin, K.
+Y., & Dye, D. M. (2001). Understandingwork using the Occupational Information Net-
+work (O*NET): Implications for practice and research. Personnel Psychology, 54,
+451–492.
+
+Pierce, J. R., & Aguinis, H. (2013). The too-much-of-a-good-thing effect in management.
+Journal of Management, 39, 313–338.
+
+Riggio, R. E. (1986). Assessment of basic social skills. Journal of Personality and Social
+Psychology, 51, 649–660.
+
+Robie, C., & Ryan, A. M. (1999). Effects of nonlinearity and heteroscedasticity on the valid-
+ity of conscientiousness in predicting overall job performance. International Journal of
+Selection and Assessment, 7, 157–169.
+Sackett, P. R., & Walmsley, P. T. (2014). Which personality attributes are most important
+in the workplace? Perspectives on Psychological Science, 9, 538–551.
+
+Samuel, D. B., Riddell, A. D. B., Lynam, D. R., Miller, J. D., &Widiger, T. A. (2012). A five-fac-
+tor measure of obsessive-compulsive personality traits. Journal of Personality
+Assessment, 94, 456–465.
+
+Snyder, M. (1974). Self-monitoring of expressive behavior. Journal of Personality and
+Social Psychology, 30, 526–537.
+
+Tett, R. P., & Burnett, D. D. (2003). A personality trait-based interactionist model of job
+performance. Journal of Applied Psychology, 88, 500–517.
+
+Vinchur, A. J., Schippmann, J. S., Switzer, A. S., & Roth, P. L. (1998). Meta-analytic review of
+predictors of job performance for salespeople. Journal of Applied Psychology, 83,
+586–597.
+
+Wang, M. W., & Stanley, J. C. (1970). Differential weighting: A review of methods and em-
+pirical studies. Review of Educational Research, 40, 663–705.
+
+Warr, P., Bartram, D., & Martin, T. (2005). Personality and sales performance: Situational
+variation and interaction between traits. International Journal of Selection and
+Assessment, 13, 87–91.
+
+Watson, D., & Clark, L. A. (1984). Negative affectivity: The disposition to experience neg-
+ative aversive emotional states. Psychological Bulletin, 96, 465–490.
+
+Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief mea-
+sures of positive and negative affect: The PANAS scales. Journal of Personality and
+Social Psychology, 54, 1063–1070.
+
+Watson, D., Stasik, S. M., Ellickson-Larew, S., & Stanton, K. (2015). Extraversion and psy-
+chopathology: A facet-level analysis. Journal of Abnormal Psychology, 124, 432–446.
+
+Witt, L. A. (2002). The interactive effects of extraversion and conscientiousness on perfor-
+mance. Journal of Management, 28, 835–851.
+
+Witt, L. A., & Ferris, G. R. (2003). Social skill asmoderator of the conscientiousness–perfor-
+mance relationship: Convergent results across four studies. Journal of Applied
+Psychology, 88, 809–820.
+
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0215
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0215
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0215
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0220
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0220
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0225
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0225
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0230
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0230
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0230
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0235
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0235
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0235
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0240
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0240
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0240
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0245
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0245
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0245
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0250
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0250
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0250
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0255
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0255
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0260
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0260
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0265
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0265
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0265
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0270
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0270
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0275
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0275
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0275
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0280
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0280
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0285
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0285
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0290
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0290
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0290
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0295
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0295
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0300
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0300
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0300
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0305
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0305
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0310
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0310
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0310
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0315
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0315
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0320
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0320
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0325
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0325
+http://refhub.elsevier.com/S0191-8869(16)30887-X/rf0325
+
+\tConscientiousness, extraversion, and field sales performance: Combining narrow personality, social skill, emotional stabili...
+\t1. Introduction
+\t2. Conscientiousness and extraversion - narrower personality in the sales context
+\t3. Method
+\t3.1. Participants and procedure
+\t3.2. Measures
+\t3.2.1. Disciplined achievement motivation (DAM)
+\t3.2.2. Stable social potency (SSP)
+\t3.2.3. Validation study
+\t3.2.4. Objective sales performance
+\t3.2.5. Control variables
+
+\t3.3. Statistical analyses
+\t3.3.1. Measurement models
+\t3.3.2. Hypothesis testing
+
+
+\t4. Results
+\t5. Discussion
+\tReferences
+
+
+", 'status': 200}

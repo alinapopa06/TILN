@@ -1,0 +1,86 @@
+{
+  "0": {
+        "entities": [[48, 51, "SIZE"], [59, 78, "SUBJECTS"], [113, 129, "MEAN AGE"], [131, 140, "SD"]]
+    },
+  "1": {
+      "entities": [[30, 49, "SUBJECTS"], [199, 201, "SIZE"], [214, 222, "GENDER"], [224, 230, "GENDER"],
+                   [305, 316, "MEAN AGE"], [318, 327, "SD"]]
+  },
+  "2": {
+      "entities": [[18, 21, "SIZE"], [22, 31, "NATIONALITY"], [32, 59, "EDUCATION"], [71, 79, "GENDER"],
+                   [81, 89, "GENDER"], [181, 190, "MEAN AGE"], [192, 206, "SD"], [213, 221, "SUBJECTS"]]
+  },
+  "3": {
+      "entities": [[32, 34, "SIZE"], [35, 60, "SUBJECTS"], [224, 232, "GENDER"], [270, 279, "MEAN AGE"]]
+  },
+  "4": {
+      "entities": [[120, 139, "EDUCATION"], [230, 238, "SUBJECTS"], [933, 935, "SIZE"], [958, 984, "MEAN AGE"],
+                   [992, 1011, "SD"], [1268, 1282, "GENDER"], [1287, 1299, "GENDER"]]
+  },
+  "5": {
+      "entities": [[18, 34, "SUBJECTS"], [55, 62, "NATIONALITY"], [86, 91, "SIZE"], [230, 252, "MEAN AGE"],
+                   [254, 263, "SD"], [277, 289, "GENDER"], [311, 321, "GENDER"]]
+  },
+  "6": {
+      "entities": [[8, 11, "SIZE"], [12, 30, "SUBJECTS"], [32, 40, "GENDER"], [42, 57, "MEAN AGE"], [59, 69, "SD"],
+                   [75, 86, "GENDER"], [88, 103, "MEAN AGE"], [105, 115, "SD"]]
+  },
+  "7": {
+      "entities": [[22, 25, "SIZE"], [26, 59, "SUBJECTS"], [61, 68, "GENDER"], [73, 82, "GENDER"],
+                   [252, 258, "NATIONALITY"]]
+  },
+  "8": {
+      "entities": [[0, 13, "SIZE"], [14, 36, "SUBJECTS"], [38, 48, "GENDER"], [53, 61, "GENDER"],
+                   [66, 87, "EDUCATION"], [174, 197, "MEAN AGE"], [199, 207, "SD"]]
+  },
+  "9": {
+      "entities": [[0, 11, "SUBJECTS"], [12, 21, "SIZE"], [122, 163, "GENDER"], [180, 189, "GENDER"],
+                   [234, 250, "MEAN AGE"], [252, 260, "SD"]]
+  },
+  "10": {
+      "entities": [[20, 58, "SUBJECTS"], [74, 97, "SIZE"], [99, 111, "GENDER"], [113, 123, "GENDER"],
+                   [387, 393, "NATIONALITY"]]
+  },
+  "11": {
+      "entities": [[37, 40, "SIZE"], [41, 49, "SUBJECTS"], [258, 280, "GENDER"], [285, 304, "GENDER"],
+                   [367, 376, "MEAN AGE"], [378, 386, "SD"]]
+  },
+  "12": {
+      "entities": [[85, 103, "SIZE"], [964, 975, "GENDER"]]
+  },
+  "13": {
+      "entities": [[43, 50, "SUBJECTS"], [191, 198, "SIZE"], [215, 254, "GENDER"], [305, 311, "MEAN AGE"],
+                   [313, 320, "SD"], [355, 360, "NATIONALITY"], [440, 447, "NATIONALITY"], [457, 465, "NATIONALITY"]]
+  },
+  "14": {
+      "entities": [[0, 21, "SIZE"], [22, 30, "SUBJECTS"], [36, 55, "EDUCATION"], [72, 94, "GENDER"],
+                   [96, 111, "MEAN AGE"]]
+  },
+  "15": {
+      "entities": [[0, 27, "SIZE"], [29, 60, "SUBJECTS"], [949, 962, "GENDER"], [980, 1011, "EDUCATION"],
+                   [1017, 1043, "MEAN AGE"], [1045, 1054, "SD"]]
+  },
+  "16": {
+      "entities": [[341, 353, "SIZE"], [910, 926, "GENDER"], [931, 949, "GENDER"]]
+  },
+  "17": {
+      "entities": [[0, 14, "SIZE"], [25, 32, "SUBJECTS"], [34, 42, "GENDER"], [180, 220, "MEAN AGE"],
+                   [222, 237, "SD"], [403, 411, "MEAN AGE"], [413, 422, "SD"], [481, 488, "MEAN AGE"],
+                   [490, 498, "SD"]]
+  },
+  "19": {
+      "entities": [[0, 25, "SIZE"], [26, 48, "SUBJECTS"], [56, 84, "EDUCATION"], [86, 95, "GENDER"],
+                   [97, 108, "GENDER"], [280, 304, "MEAN AGE"], [306, 314, "SD"]]
+  },
+  "18": {
+      "entities": [[41, 49, "GENDER"], [50, 65, "SUBJECTS"], [213, 247, "MEAN AGE"], [249, 258, "SD"]]
+  },
+  "20": {
+      "entities": [[35, 57, "SUBJECTS"], [73, 85, "SIZE"], [153, 161, "GENDER"], [166, 175, "GENDER"],
+                   [220, 241, "MEAN AGE"], [242, 253, "SD"]]
+  },
+  "21": {
+       "entities": [[90, 96, "NATIONALITY"], [146, 162, "SUBJECTS"], [477, 493, "SIZE"], [495, 509, "GENDER"],
+                    [523, 540, "MEAN AGE"], [542, 549, "SD"]]
+   }
+}
