@@ -178,8 +178,10 @@ def extract():
 @app.route('/extracting', methods=["GET", "POST"])
 def extracting():
     if request.method == 'POST':
-        with open('static/pdf/out.txt', 'r', encoding="utf8") as file:
+        with open('static/pdf/out.txt', 'r+', encoding="utf8") as file:
             data = file.read()  # .replace('\n', '')
+              file.truncate(0)
+            file.close()
         rawtext=extractParticipants(data)
         #rawtext = request.form['rawtext']
         ner_model = spacy.load(output_dir)
