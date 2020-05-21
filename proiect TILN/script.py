@@ -8,12 +8,17 @@ import random
 from tqdm import tqdm
 from werkzeug.utils import secure_filename
 from tika import parser
+import re
+from PyPDF2 import PdfFileReader
 
 n_iter = 1000
 nlp = spacy.load('en_core_web_sm')
 output_dir = Path(os.path.join(os.path.dirname(__file__), 'model'))
 
 from flaskext.markdown import Markdown
+
+##bevip
+#in loc de submit punem go
 
 TEMPLATE_DIR = os.path.abspath('C:/Users/Andreea/Desktop/proiect TILN/templates')
 STATIC_DIR = os.path.abspath('C:/Users/Andreea/Desktop/proiect TILN/static')
@@ -139,6 +144,17 @@ def extractParticipants(s):
     else:
         return s[start:end]
 
+def get_email(text):
+    email = re.findall(r'[\w\.-]+@[a-z0-9\.-]+', text)
+    adresa = re.search("(?P<url>http?://[^\s]+)", text).group("url")
+    return email, adresa
+
+def extract_pdfMeta(path):
+    with open(path, 'rb') as f:
+        pdf = PdfFileReader(f, strict=False)
+        info = pdf.getDocumentInfo()
+        number_of_pages = pdf.getNumPages()
+        return info.author, info.title, number_of_pages
 
 @app.route('/')
 def index():
@@ -180,7 +196,8 @@ def extracting():
     if request.method == 'POST':
         with open('static/pdf/out.txt', 'r+', encoding="utf8") as file:
             data = file.read()  # .replace('\n', '')
-              file.truncate(0)
+            result1=get_email(data)
+            file.truncate(0)
             file.close()
         rawtext=extractParticipants(data)
         #rawtext = request.form['rawtext']
@@ -190,7 +207,7 @@ def extracting():
         html = html.replace("\n\n", "\n")
         result = HTML_WRAPPER.format(html)
 
-    return render_template('results.html', rawtext=rawtext, result=result)
+    return render_template('results.html', rawtext=rawtext, result1=result1, result=result)
 
 if __name__ == '__main__':
     app.run(debug=True)
