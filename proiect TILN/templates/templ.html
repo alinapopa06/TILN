@@ -1,6 +1,12 @@
 <!DOCTYPE html>
-<html>
-<head>
+<>
+
+<head class="intro-header" style="background-image: url('../static/css/da.jpg')">
+    <style type="text/css">
+        .intro-header{
+           background-color: #FF9966;
+        }
+</style>
 	<title>Corelații între variabile în psihologie</title>
 	<meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,36 +14,78 @@
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
 
 <style type="text/css">
-	.main-section{
-	margin:0 auto;
+	.container{
 	padding: 20px;
-	margin-top: 100px;
-	background-color: #fff;
+	margin-top: 10px;
+	background-color: #E6FFDC;
 	box-shadow: 0px 0px 20px #c1c1c1;
 }
-#custom_card{
-	background-color:grey;
-	color:#fff;
-	padding:10px;
+
+    @media screen and (min-width: 800px) {
+        /*The following CSS runs only for displays with a width (in pixels) of more than 800px*/
+        body {
+            background-image: url("../static/css/da.jpg");
+             background-position: center center;
+             background-repeat: no-repeat;
+             background-attachment: fixed;
+             background-size: cover;
+        }
+    }
+
+    @media screen and (max-width: 800px) {
+        /*The following CSS runs only for displays with a width (in pixels) of less than 800px*/
+        body {
+            background-image: url("../static/css/da.jpg");
+             background-position: center center;
+             background-repeat: no-repeat;
+             background-attachment: fixed;
+             background-size: cover;
+        }
+    }
+
+    .button {
+  background-color: #879c79;
+
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
-#custom_card2{
-	background-color:#383838;
-	color:#fff;
-	padding:10px;
+    .sub-corpus{
+        background-image: url("../static/css/da.jpg");
+    }
+
+#custom_card {
+    background-color: grey;
+    color: #fff;
+    padding: 10px;
 }
+
+#body,h1,h2,h3,h4,h5,h6{font-weight:200}.
+
 </style>
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.3/css/mdb.min.css" rel="stylesheet">
 
-</head>
+
 <body>
+
+
+
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
   <a class="navbar-brand" href="/">Corelații între variabile în psihologie</a>
 </nav>
 <br/>
 <br/>
+
+
 
 <br/>
 <br/>
@@ -45,19 +93,18 @@
      <h2>Introduceți fișierul:</h2>
         <form id="upload-form" action="{{ url_for('upload') }}" method="POST" enctype=multipart/form-data>
         <input type="file" name="file">
-      <input type=submit value="Upload">
+            <button class="button" type="submit" class="btn btn-primary"><i class="fa fa-eraser"></i> Upload</button>
 
        </form>
         <form id="extract-form" action="{{ url_for('extracting') }}" method="POST" enctype=multipart/form-data>
-         <button type="submit" class="btn btn-info"><i class="fa fa-database"></i> Extract</button>
+         <button class="button" type="submit" class="btn btn-info"><i class="fa fa-database"></i> Extract</button>
         </form>
 	<form method="POST" action="{{ url_for('extract')}}">
 		<textarea rows="5" cols="5" required="true" name="rawtext" class="form-control">
 		</textarea>
-        <button type="submit" class="btn btn-info"><i class="fa fa-database"></i> Submit</button>
+        <button class="button" type="submit" class="btn btn-info"><i class="fa fa-database"></i> Submit</button>
 	</form>
 </div>
-
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
