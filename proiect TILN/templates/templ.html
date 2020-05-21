@@ -77,15 +77,11 @@
 
 <body>
 
-
-
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
   <a class="navbar-brand" href="/">Corelații între variabile în psihologie</a>
 </nav>
 <br/>
 <br/>
-
-
 
 <br/>
 <br/>
@@ -99,7 +95,7 @@
         <form id="extract-form" action="{{ url_for('extracting') }}" method="POST" enctype=multipart/form-data>
          <button class="button" type="submit" class="btn btn-info"><i class="fa fa-database"></i> Extract</button>
         </form>
-	<h3>Enter text:</h3>
+     <h3>Enter text:</h3>
 	<form method="POST" action="{{ url_for('extract')}}">
 		<textarea rows="5" cols="5" required="true" name="rawtext" class="form-control">
 		</textarea>
