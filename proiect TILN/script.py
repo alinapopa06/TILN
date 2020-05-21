@@ -17,9 +17,6 @@ output_dir = Path(os.path.join(os.path.dirname(__file__), 'model'))
 
 from flaskext.markdown import Markdown
 
-##bevip
-#in loc de submit punem go
-
 TEMPLATE_DIR = os.path.abspath('C:/Users/Andreea/Desktop/proiect TILN/templates')
 STATIC_DIR = os.path.abspath('C:/Users/Andreea/Desktop/proiect TILN/static')
 UPLOAD_FOLDER = 'C:/Users/Andreea/Desktop/proiect TILN/static/pdf'
@@ -91,13 +88,9 @@ def train_model(train_data):
     print("Saved model to", output_dir)
 
 def pdftotext(filename):
-    #FILE_DIR = os.path.abspath('C:/Users/Andreea/Desktop/byte/uploads')
     path = UPLOAD_FOLDER
-    #lista = os.listdir(path)
-    #text = lista[0]
     file = os.path.join(UPLOAD_FOLDER, filename)
     raw = parser.from_file(file)
-    # print(raw['content'])
     file1 = open('C:/Users/Andreea/Desktop/proiect TILN/static/pdf/out.txt', "w", encoding='utf-8')
     str(raw).replace('x', '')
     file1.write(str(raw).replace('\\n', '\n'))
