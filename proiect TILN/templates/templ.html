@@ -90,7 +90,7 @@
 <br/>
 <br/>
 <div class="container" >
-     <h2>Introduceți fișierul:</h2>
+     <h2>Upload file:</h2>
         <form id="upload-form" action="{{ url_for('upload') }}" method="POST" enctype=multipart/form-data>
         <input type="file" name="file">
             <button class="button" type="submit" class="btn btn-primary"><i class="fa fa-eraser"></i> Upload</button>
@@ -99,10 +99,11 @@
         <form id="extract-form" action="{{ url_for('extracting') }}" method="POST" enctype=multipart/form-data>
          <button class="button" type="submit" class="btn btn-info"><i class="fa fa-database"></i> Extract</button>
         </form>
+	<h3>Enter text:</h3>
 	<form method="POST" action="{{ url_for('extract')}}">
 		<textarea rows="5" cols="5" required="true" name="rawtext" class="form-control">
 		</textarea>
-        <button class="button" type="submit" class="btn btn-info"><i class="fa fa-database"></i> Submit</button>
+        <button class="button" type="submit" class="btn btn-info"><i class="fa fa-database"></i> GO</button>
 	</form>
 </div>
 
